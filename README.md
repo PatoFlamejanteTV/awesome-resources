@@ -1,16 +1,16 @@
-# Angular Chile Awesome Resources
-> Este repositorio guarda todos los recursos interesantes compartidos en nuestro Slack
+# Recursos Incríveis do Angular Chile
+> Este repositório guarda todos os recursos interessantes compartilhados em nosso Slack
 
-## API Development
-* **[JSON Server](https://github.com/typicode/json-server)**: Servidor REST fake que puede ser utilizado durante el desarrollo de nuestras aplicaciones.
-* **[Apiary](https://apiary.io/)**: Permite documentar nuestras API's fácilmente y lo permite hacer y generar con un estilo muy vistoso, además de tener otras funcionalidades.
-* **[Snippet generator](https://snippet-generator.app/)**: Permite generar blques de codigo para los distintos IDE.
-* **[PM Encoder](https://www.npmjs.com/package/pm-encoder)**: Librería open source con la que se pueden cifrar y descifrar cadenas de texto desde una aplicación con tecnologías basadas en JavaScript.
+## Desenvolvimento de API
+* **[JSON Server](https://github.com/typicode/json-server)**: Servidor REST fake que pode ser utilizado durante o desenvolvimento de nossas aplicações.
+* **[Apiary](https://apiary.io/)**: Permite documentar nossas APIs facilmente e com um estilo muito vistoso, além de ter outras funcionalidades.
+* **[Snippet generator](https://snippet-generator.app/)**: Permite gerar blocos de código para os diversos IDEs.
+* **[PM Encoder](https://www.npmjs.com/package/pm-encoder)**: Biblioteca open source com a qual se pode criptografar e descriptografar cadeias de texto a partir de uma aplicação com tecnologias baseadas em JavaScript.
 
-## Databases
+## Bancos de Dados
 * **[RxDB](https://github.com/pubkey/rxdb)**:
-Base de datos reactiva NoSQL para aplicaciones Javascript, tales como paginas web, aplicaciones hibridas, aplicaciones electron y NodeJS.
+Banco de dados reativo NoSQL para aplicações Javascript, tais como páginas web, aplicações híbridas, aplicações Electron e NodeJS.
 
-## Static site generators
+## Geradores de sites estáticos
 * ** [Scully](https://github.com/scullyio/scully)**:
-Generador de sitios estaticos en Angular.
+Gerador de sites estáticos em Angular.
